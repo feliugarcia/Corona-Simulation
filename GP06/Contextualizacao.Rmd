@@ -4,6 +4,10 @@ author: "MCIMD 2020-1"
 date: "3/30/2020"
 indent: yes
 output:
+
+  md_document:
+    variant: markdown_github
+    
   pdf_document: default
   html_document: default
 ---
