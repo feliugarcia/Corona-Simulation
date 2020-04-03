@@ -1,0 +1,20 @@
+---
+title: "Modelagem Matemática"
+author: "MCIMD 2020-1"
+date: "4/3/2020"
+output: html_document
+---
+
+# Modelagem matemática do projeto
+
+# Título de nível 1 
+
+## Título de nível 2
+
+### Título de nível 3
+
+
+Texto normal
+
+*Texto em itálico*
+**Texto em negrito** 
