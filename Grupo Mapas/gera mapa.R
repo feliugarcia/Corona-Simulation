@@ -1,4 +1,4 @@
-chaveminha <- 'AIzaSyBQ_nLiWG3Nyltmso4CCelVikkSKzIBMzc'
+chaveminha <- chave
 
 
 
